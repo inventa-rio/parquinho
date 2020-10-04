@@ -1,2 +1,2 @@
 # parquinho
-Testes aleatórios de ferramentas, linguagens e afim
+Testes aleatórios de ferramentas, linguagens e afins
